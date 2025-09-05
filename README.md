@@ -26,7 +26,7 @@ This repo will be updated continuously as I progress:
 ---
 
 ## 🛠️ Current Setup
-- **SIEM Tool:** Splunk Enterprise (Free, 500MB/day)  
+- **SIEM Tool:** Splunk Enterprise 
 - **Log Sources:** Windows Security Logs, Sysmon Logs  
 - **System:** Windows 10  
 - **Tools:** Sysmon with SwiftOnSecurity config  
