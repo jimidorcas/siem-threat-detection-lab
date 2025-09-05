@@ -1,5 +1,5 @@
 # siem-threat-detection-lab
-SIEM Threat Detection Lab – Splunk
+
 # 🖥️ SIEM Threat Detection Lab – Splunk
 
 ## 📌 Overview
