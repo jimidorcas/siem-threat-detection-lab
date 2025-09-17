@@ -33,17 +33,6 @@ This repo will be updated continuously as I progress:
 
 ---
 
-## 📊 Repo Structure
-This repo will grow as the project develops:  
-siem-threat-detection-lab/
-├─ README.md # Project documentation (this file)
-├─ queries/ # SPL queries for detections
-├─ screenshots/ # Dashboards & alerts (to be added)
-└─ notes.md # Lab setup notes & observations
-
-
----
-
 ## 🔑 Skills Demonstrated
 - SIEM setup & configuration  
 - Log collection and parsing  
